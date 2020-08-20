@@ -1,4 +1,4 @@
-[![WorldDogs's github stats](https://github-readme-stats.vercel.app/api?username=WorldDogs&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WorldDogs)](https://github.com/WorldDogs)
 <!--
 **WorldDogs/WorldDogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
